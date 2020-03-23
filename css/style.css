@@ -1,0 +1,78 @@
+.content-wrapper {
+    padding: 0px;
+}
+.status{
+	padding: 15px 8px 0 8px; 
+}
+.user-actions ul li{
+	list-style: none;
+	display: inline;
+	padding: 0 5px;
+	font-size: 17px;
+}
+.card-body.p-0 .table tbody>tr>td:last-of-type, .card-body.p-0 .table tbody>tr>th:last-of-type, .card-body.p-0 .table thead>tr>td:last-of-type, .card-body.p-0 .table thead>tr>th:last-of-type {
+    text-align: center;
+}
+
+.user-actions ul .fa-eye{
+	color: #4e4e4e;
+ }
+ .user-actions ul .fa-eye:hover{
+	color: #5a5a5a;
+ }
+ .user-actions ul .fa-edit{
+	color: #115ba7;
+ }
+ .user-actions ul .fa-edit:hover{
+	color: #17a2b8;
+ }
+  .user-actions ul .fa-trash-alt{
+	color: #4e4e4e;
+ }
+ .user-actions ul .fa-trash-alt:hover{
+	color: maroon;
+ }
+ .avater {
+ 	margin-bottom: 10px;
+ }
+
+ .user-actions{
+	padding: 0;
+}
+.user-actions ul li{
+	list-style: none;
+	display: inline;
+	padding: 0 5px;
+	text-align: center;
+}
+.user-actions .fa-edit{
+	color: #0579f1;
+ }.user-actions .fa-edit:hover{
+	color: #59aafd;
+ }
+.user-actions .fa-trash-alt{
+	color: #4e4e4e;
+}.user-actions .fa-trash-alt:hover{
+	color: #797879;
+}
+.sure-btn{
+	text-align: center;
+}
+.sure-btn ul li{
+	list-style: none;
+	display: inline;
+	padding: 0 3px;
+}
+.form-group {
+    margin-bottom: 1rem;
+    padding: 0 20px !important;
+}
+.card-body label {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.avater{
+	margin-left: 10px;
+    margin-bottom: 12px;
+}
